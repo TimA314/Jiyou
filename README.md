@@ -28,5 +28,7 @@ Donations: lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm3
 
 To run the application, use
 
+```bash
 $ npm install
 $ npm start
+```
